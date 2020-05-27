@@ -5,7 +5,7 @@ The goal of [PhysioNet Challenge 2019](https://physionet.org/content/challenge-2
 
 ### In this Repository
 
-- `Supporting Scripts/`
+- Supporting Scripts
   - `Cluster` 
   - `Evaluation` 
   - `Imputation` 
