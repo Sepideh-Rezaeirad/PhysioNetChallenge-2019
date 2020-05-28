@@ -18,4 +18,4 @@ You have to follow below steps to implement and evaluate the proposed Early Pred
   - `Download data`
   - `Fill missing data`
   - `Train the ptoposed AdaBoost model and predict test samples`
-  - `Evaluate system using utility function`
+  - `Evaluate results using the utility function`
