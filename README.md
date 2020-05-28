@@ -5,8 +5,10 @@ The goal of [PhysioNet Challenge 2019](https://physionet.org/content/challenge-2
 
 ### In this Repository
 
-- Supporting Scripts
-  - `Cluster` 
-  - `Evaluation` 
-  - `Imputation` 
-  - `Train_Prediction` 
+- Data.md contains the challenge data description and how to access data.  
+
+- Supporting Scripts: The proposed early prediction of sepsis is written in python.
+  - `Cluster` contains scripts to prepare needed libraries and implement the proposed system on a cluster. 
+  - `Evaluation` contains the script to evaluate prediction results using Utility Function that was created by the Challenge. 
+  - `Imputation` contains the script and requirement data to fill missing values in the challenge data. 
+  - `Train_Prediction` contains scripts to train the AdaBoost model and predict the test data along with the proposed AdaBoost model.
