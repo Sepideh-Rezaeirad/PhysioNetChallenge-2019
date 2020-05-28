@@ -13,7 +13,7 @@ The goal of [PhysioNet Challenge 2019](https://physionet.org/content/challenge-2
 
 ### How to Implement
 
-You have to follow below steps to implement and evaluate the proposed Early Prediction of Sepsis
+You have to follow below steps to implement and evaluate the proposed Early Prediction of Sepsis.
 
   - `Download data`
   - `Fill missing data`
