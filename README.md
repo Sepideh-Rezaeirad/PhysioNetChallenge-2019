@@ -10,3 +10,12 @@ The goal of [PhysioNet Challenge 2019](https://physionet.org/content/challenge-2
 - `Evaluation` contains the script to evaluate prediction results using Utility Function that was created by the Challenge. 
 - `Imputation` contains the script and requirement data to fill missing values in the challenge data. 
 - `Train_Prediction` contains scripts to train the AdaBoost model and predict the test data along with the proposed AdaBoost model.
+
+### How to Implement
+
+You have to follow below steps to implement and evaluate the proposed Early Prediction of Sepsis
+
+  - `Download data`
+  - `Fill missing data`
+  - `Train the ptoposed AdaBoost model and predict test samples`
+  - `Evaluate system using utility function`
